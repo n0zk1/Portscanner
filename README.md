@@ -1,5 +1,5 @@
 # Simple Portscanner 
-A Simple python3 based Portscanner by n0zk
+A simple python3 based Portscanner by n0zk
 
 ## What is it?
 Portscanner is a basic tool to scan ports. 
