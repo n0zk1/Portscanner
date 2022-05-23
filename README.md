@@ -2,7 +2,9 @@
 A Simple python3 based Portscanner by n0zk
 
 ## What is it?
-Portscanner is a basic tool to scan ports. Made as a exam project so nothing special 
+Portscanner is a basic tool to scan ports. 
+
+Made as a exam project so nothing special 
 
 It work on every system that have python installed so no worries 
 
