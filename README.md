@@ -21,6 +21,11 @@ Portscanner is simple as it is written, just by following the commands it is pos
 
 ```bash
 python portscanner.py
+```
+
+A Example of the script
+
+```bash
 
 Enter IP or a Host to scan:
 
